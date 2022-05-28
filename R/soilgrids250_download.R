@@ -1,4 +1,4 @@
-#' Title Downlaoding soilGRIDs soil data from 250 m resolution
+#' Title Downlaoding soilGRIDs soil data from 250 m resolution ( sourced from https://soilgrids.org/)
 #'
 #' @param param is soil property and it can be one of c("bdod", "cec", "cfvo", "clay", "nitrogen", "ocd", "phh2o", "sand", "silt", "soc")
 #' @param depth is soil sample depth and it can be c("0-5", "5-15", "15-30", "30-60")
